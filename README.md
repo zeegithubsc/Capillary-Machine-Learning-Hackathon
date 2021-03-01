@@ -22,16 +22,16 @@ training data contains transaction history of 27778 users for 7 months (April - 
  
 |Variable|	Description|
 |---|---|
-|productid|	Unique ID for product
-|attribute_name|	Name of attribute (fit/sleeve/Fabric….)
-|attributevalue|	Anonymised Attribute Value (unordered)
+|productid|	Unique ID for product|
+|attribute_name|	Name of attribute (fit/sleeve/Fabric….)|
+|attributevalue|	Anonymised Attribute Value (unordered)|
  
 •	Images Folder
 Contains the images corresponding to all items with the format <productid>.jpg
  
 2. test.csv
 The test data contains the user list for which the participant is supposed to come up with the best recommendations (maximum 10). These users represent a subset of users from the train data who made atleast 1 transaction in the 2 months following the last transaction in the train set.
-|Variable|	Description
+|Variable|	Description|
 |---|---|
 |UserId|	Unique ID for user|
  
