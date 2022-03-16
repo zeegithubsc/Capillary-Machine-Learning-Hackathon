@@ -1,4 +1,4 @@
-# Capillary-Machine-Learning-Hackathon (Rank 34 Solution)
+# Capillary-Machine-Learning-Hackathon (Rank 34 Solution, user: xeeman)
 
 ## Competition Link
 https://datahack.analyticsvidhya.com/contest/capillary-machine-learning-hackathon/
